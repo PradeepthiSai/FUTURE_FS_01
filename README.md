@@ -28,3 +28,5 @@ It reflects my journey as a **Python Full Stack Developer** and **Google AI‑ML
 1. Clone the repository:
    ```bash
    git clone https://github.com/PradeepthiSai/my-portfolio.git
+## ✨ Live Demo
+Check out the live site here: [My Portfolio](https://pradeepthisai.github.io/my-portfolio/)
